@@ -1,0 +1,102 @@
+[
+  {
+    "Name of Students": "Aarav Mehta",
+    "College": "IIT Bombay",
+    "CGPA": 9.1
+  },
+  {
+    "Name of Students": "Priya Sharma",
+    "College": "Delhi University",
+    "CGPA": 8.7
+  },
+  {
+    "Name of Students": "Rohan Gupta",
+    "College": "BITS Pilani",
+    "CGPA": 9.3
+  },
+  {
+    "Name of Students": "Sneha Iyer",
+    "College": "Anna University",
+    "CGPA": 8.5
+  },
+  {
+    "Name of Students": "Karan Patel",
+    "College": "NIT Trichy",
+    "CGPA": 8.9
+  },
+  {
+    "Name of Students": "Ananya Verma",
+    "College": "Jadavpur University",
+    "CGPA": 9.0
+  },
+  {
+    "Name of Students": "Aditya Joshi",
+    "College": "Pune University",
+    "CGPA": 8.6
+  },
+  {
+    "Name of Students": "Neha Kulkarni",
+    "College": "Symbiosis International University",
+    "CGPA": 8.8
+  },
+  {
+    "Name of Students": "Vivek Singh",
+    "College": "Banaras Hindu University",
+    "CGPA": 9.2
+  },
+  {
+    "Name of Students": "Meera Nair",
+    "College": "Christ University",
+    "CGPA": 8.4
+  },
+  {
+    "Name of Students": "Rahul Deshmukh",
+    "College": "Savitribai Phule Pune University",
+    "CGPA": 8.7
+  },
+  {
+    "Name of Students": "Tanya Kapoor",
+    "College": "Amity University",
+    "CGPA": 8.3
+  },
+  {
+    "Name of Students": "Siddharth Rao",
+    "College": "SRM Institute of Science & Technology",
+    "CGPA": 8.9
+  },
+  {
+    "Name of Students": "Pooja Mishra",
+    "College": "Jamia Millia Islamia",
+    "CGPA": 8.5
+  },
+  {
+    "Name of Students": "Arjun Reddy",
+    "College": "Osmania University",
+    "CGPA": 8.6
+  },
+  {
+    "Name of Students": "Kavya Jain",
+    "College": "Mumbai University",
+    "CGPA": 9.0
+  },
+  {
+    "Name of Students": "Manish Kumar",
+    "College": "Lovely Professional University",
+    "CGPA": 8.2
+  },
+  {
+    "Name of Students": "Shreya Banerjee",
+    "College": "Presidency University",
+    "CGPA": 8.7
+  },
+  {
+    "Name of Students": "Deepak Yadav",
+    "College": "Chandigarh University",
+    "CGPA": 8.4
+  },
+  {
+    "Name of Students": "Bhavesh Chandwani",
+    "College": "Chhatrapati Shivaji Maharaj University",
+    "CGPA": 8.68
+  }
+]
